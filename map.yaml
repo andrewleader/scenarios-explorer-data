@@ -1,9 +1,9 @@
 scenarios:
- - title: Content Exchange Language
-   contents: 1.md
+ - id: 1
+   title: Content Exchange Language
    children:
-    - title: Actionable Content
-      contents: 2.md
+    - id: 2
+      title: Actionable Content
       proposals:
-       - title: Blocks
-         contents: 3.md
+       - id: 3
+         title: Blocks
