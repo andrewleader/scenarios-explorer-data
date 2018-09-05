@@ -1,6 +1,6 @@
 scenarios:
 - id: 1
-  title: Content Exchange Language!
+  title: Content Exchange Language!!
   children:
   - id: 2
     title: Actionable Content
